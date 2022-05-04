@@ -1,1 +1,1 @@
-# letslearntop
+This is a side project from r/let'slearntop from reddit. It is going to boost commitment to learning.
